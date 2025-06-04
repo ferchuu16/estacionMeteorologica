@@ -1,4 +1,4 @@
-<<<<<<<<< Temporary merge branch 1
+
 # Proyecto Estacion Meteorológica ACPI
 =========
 # Estacion Meteorologica
