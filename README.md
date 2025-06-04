@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Estacion Meteorologica
+=======
+# Proyecto Estacion Meteorológica
+>>>>>>> d8459b17e802e2bc3f2a7b106bbaa5d3429e8a64
 
 ## Run the app
 
