@@ -3,7 +3,8 @@ from datetime import datetime
 import random
 import math 
 import time
-import threading # <-- AQUÍ ESTÁ LA LÍNEA QUE FALTABA
+import threading 
+
 
 # --- ESTADO DEL CLIMA ---
 current_weather_state = 'Soleado' 
@@ -243,5 +244,6 @@ def main(page: ft.Page):
     update_thread = threading.Thread(target=auto_update_loop, daemon=True)
     update_thread.start()
     update_ui()
+
 
 ft.app(target=main)
